@@ -13,7 +13,6 @@ description: Prune your neural networks
 ::: {.content-block}
 
 # Welcome to FasterAI
-### Compress your neural networks to make them **smaller** and **faster**
 
 ::: {.hero-buttons}
 [<b> Get Started </b>](/quickstart.ipynb){.btn-primary .btn .btn-lg role="button" style="border-radius: 6px"}
@@ -22,6 +21,8 @@ description: Prune your neural networks
 :::
 
 :::
+
+
 
 
 ::: {.hero-banner}
@@ -48,6 +49,22 @@ learn.fit(epochs, lr, cbs=sp_cb)
 
 :::
 
+
+
+
+::: {.hero-banner}
+
+::: {.content-block style="text-align: justify"}
+
+## Make your models smaller, faster, cheaper and greener
+
+::: {.center}
+![](imgs/perf2.svg){ width=100% }
+:::
+
+:::
+
+:::
 
 
 ::: {.hero-banner}

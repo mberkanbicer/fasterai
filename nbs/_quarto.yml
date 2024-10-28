@@ -26,19 +26,15 @@ website:
     search: true
     collapse-below: lg
     left:
-      - text: "Get Started"
-        href: https://nathanhubens.github.io/fasterai/quickstart.html
-      - text: "Help"
-        menu:
-          - text: "Report an Issue"
-            icon: bug
-            href: https://github.com/fastai/nbdev/issues
-          - text: "Contact Me"
-            icon: chat-right-text
-            href: "mailto:nathan.hubens@gmail.com?subject=Hello"
-          - text: "Join the Community"
-            icon: discord
-            href: https://discord.gg/32BwhJSB9u
+      - text: "Contact Me"
+        icon: chat-right-text
+        href: "mailto:nathan.hubens@gmail.com?subject=Hello"
+      - text: "Report an Issue"
+        icon: bug
+        href: https://github.com/nathanhubens/fasterai/issues
+      - text: "Join the Community"
+        icon: discord
+        href: https://discord.gg/32BwhJSB9u
     right:
       - icon: github
         href: "https://github.com/nathanhubens/fasterai"
